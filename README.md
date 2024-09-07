@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello World 😌
 
-<!--
-**Hilaire007/Hilaire007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nicholas Hilaire, and I am a software engineer passionate about making technology more human-centric, adaptable, objective, and making competency in the ever-changing tech world an enjoyable adventure.
 
-Here are some ideas to get you started:
+Here are some nuggets to get to know me, as well as where to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m working on completing my education with the Bloom Insitute of Technology Full Stack Web Developer program.
+- 🌱 I’m currently employed with Apple, Inc. as a software advisor and specialist.
+- 👯 I’m looking to collaborate on projects that will help me to grow as a software engineer and prepare me for new, more challenging opportunities.
+- 🤔 I’m looking for help with career readiness, including what to expect with the hiring and interview process.
+- 💬 Ask me about my hobbies and interests!
+- 📫 How to reach me: You can reach me via [LinkedIn](https://www.linkedin.com/in/nicholas-hilaire-06856b203/) 
+- ⚡ Fun fact: I'm a professional musician! 
 -->
