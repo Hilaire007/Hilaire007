@@ -11,4 +11,3 @@ Here are some nuggets to get to know me, as well as where to reach me:
 - 💬 Ask me about my hobbies and interests!
 - 📫 How to reach me: You can reach me via [LinkedIn](https://www.linkedin.com/in/nicholas-hilaire-06856b203/) 
 - 🎶 Fun fact: I'm a professional musician! 
--->
